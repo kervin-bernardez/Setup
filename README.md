@@ -2,7 +2,7 @@
 # Download setup github repo
 ```
 git clone https://github.com/kervin-bernardez/Setup.git ~/Downloads/Setup
-cd ~/Downloads/Setup && sudo mv Material-Black-Lime-Numix-FLAT /usr/share/icons
+cd ~/Downloads/Setup && sudo cp Material-Black-Lime-Numix-FLAT /usr/share/icons
 ```
 
 # Install updates and packages
